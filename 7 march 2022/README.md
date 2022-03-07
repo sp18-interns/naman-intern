@@ -3,11 +3,10 @@
 ## date 07-03-2022
 
 ### first half
--got git session
--read about git
--tried to commit the code 
--watch udemy python videos upto loops 
+- install ubuntu through vm ware 
+- intraction with abrar sir
+- watch udemy python videos 
 
 ### Links Read
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
- 
+  https://www.youtube.com/watch?v=S26CKNo4Tgs
+  

@@ -10,3 +10,5 @@
 ### Links Read
   https://www.youtube.com/watch?v=S26CKNo4Tgs
   
+### second half
+- some problem solving from internet

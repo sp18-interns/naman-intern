@@ -6,6 +6,8 @@
 - making simple calculator using if else
 - intraction with abrar sir
 - watch udemy python videos 
+### second half
+- List comprehension -- in progress
 
 ###  videos
   Comparison Operators in Python -- Completed 

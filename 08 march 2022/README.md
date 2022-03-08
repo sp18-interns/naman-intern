@@ -7,7 +7,8 @@
 - intraction with abrar sir
 - watch udemy python videos 
 
-### Links Read
+###  videos
   Comparison Operators in Python -- Completed 
+  If Elif and Else Statements in Python --completed
  
  
